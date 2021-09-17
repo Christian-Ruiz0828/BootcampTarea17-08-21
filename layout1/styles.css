@@ -1,0 +1,27 @@
+body{
+    background-color: papayawhip;
+}
+
+#caja{
+    display:flex;
+    justify-content:start;
+    flex-wrap: wrap;
+    background-color:orangered;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fila1{
+    background-color: rgb(42, 177, 240);
+    margin: 5px;
+    width: 190px;
+    height: 190px;
+    text-align: center;
+    line-height: 190px;
+    font-size: 100px;
+}
